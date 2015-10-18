@@ -49,4 +49,4 @@
 Links:
 * [DATX05 - Master's thesis in Computer science and engineering](https://www.student.chalmers.se/sp/course?course_id=23772) (Chalmers course plan)
 * [Chalmers examination guidelines](https://student.portal.chalmers.se/en/chalmersstudies/masters-thesis/Documents/Guidelines%20examination%20degree%20prj.%20English_version.pdf)
-* [Main MSc thesis page at the CSE department (Chalmers+GU)](http://www.cse.chalmers.se/MasterThesis/)
+* [Main MSc thesis page at the CSE department (Chalmers+GU)](https://masterthesis.cms.chalmers.se/)
