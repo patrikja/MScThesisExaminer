@@ -8,7 +8,7 @@ Some documents related to my role as examiner (for the Programming Languages are
 * My [grading guidelines for project proposals](grade_project_proposal.md)
 * Planning report (due 10 days after the project proposal has been accepted)
     * The planning report can be seen as an extended version of the project proposal extended with a time plan.
-    * The start date is around or before the hand-in of the project proposal (writing the proposal is also part of the MSc thesis work)
+    * The formal start date is when the project proposal is accepted (but writing the proposal is also an important preparation for the MSc thesis work)
     * Make sure to include a preliminary date for the mid-term report/presentation.
 * [Mid-term report/presentation](https://masterthesis.cms.chalmers.se/content/planning-and-mid-project-reports)
     * When the planning report has been accepted, the next next step is to plan a concrete meeting slot for the half-time reporting. I suggest using a [doodle](http://doodle.com/) to find a suitable date and time.
@@ -20,3 +20,13 @@ Some documents related to my role as examiner (for the Programming Languages are
 
 Links:
 * [Main MSc thesis page at the CSE department (Chalmers+GU)](https://masterthesis.cms.chalmers.se/)
+
+----------------
+Notes
+* 2015-12-21: Meeting of PeLj, BiGr, PaJa, WoAh, GrKe, PeDa, [AlRu] about the MSc thesis process for the CS + ST divisions (MPALG, CS@GU, ...)
+* Prel. plan for 2016:
+    * AlRu;  9 theses: language security, prog lang, functional prog
+    * PaJa;  9 theses: prog lan, functional prog, type theory, logic, language technology
+    * WoAh;  7 theses: formal methods, prog lang
+    * GrKe;  9 theses: bio inf, data science
+    * PeDa; 10 theses: data science, algo
