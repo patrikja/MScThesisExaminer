@@ -11,7 +11,8 @@ I'm collecting my instructions (and some relevant links) here
 Kind regards,
   Patrik
 
-[1] https://masterthesis.cms.chalmers.se/content/planning-and-mid-project-reports
+[1] https://masterthesis.cms.chalmers.se/content/planning-report
+
 
 PS. Don't take the "planning report" too seriously - it is not
 supposed to take a lot of time to write. The contents in basically a

@@ -6,11 +6,11 @@ Some documents related to my role as examiner (for the Programming Languages are
     * I have some [proposals I could supervise](https://masterthesis.cms.chalmers.se/supervisor/patrik-jansson)
     * but I could also be examiner of many other related proposals within [Functional Programming](https://masterthesis.cms.chalmers.se/proposal-keywords/functional-programming), [Type Theory](https://masterthesis.cms.chalmers.se/proposal-keywords/type-theory) and [neighbouring topics](https://masterthesis.cms.chalmers.se/proposal-keywords).
 * My [grading guidelines for project proposals](grade_project_proposal.md)
-* Planning report (due 10 days after the project proposal has been accepted)
+* [Planning report](https://masterthesis.cms.chalmers.se/content/planning-report) (due 10 days after the project proposal has been accepted)
     * The planning report can be seen as an extended version of the project proposal extended with a time plan.
     * The formal start date is when the project proposal is accepted (but writing the proposal is also an important preparation for the MSc thesis work)
     * Make sure to include a preliminary date for the half-time report/presentation.
-* [Half-time report/presentation](https://masterthesis.cms.chalmers.se/content/planning-and-mid-project-reports)
+* [Half-time report/presentation](https://masterthesis.cms.chalmers.se/content/halftime-report)
     * When the planning report has been accepted, the next next step is to plan a concrete meeting slot for the half-time reporting. I suggest using a [doodle](http://doodle.com/) to find a suitable date and time.
     * Send me the draft report the day before the meeting. (Your supervisor should have read the draft before I get it as examiner.)
     * The meeting should include a short (informal) presentation of the state of the MSc thesis work.
