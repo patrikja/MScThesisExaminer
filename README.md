@@ -17,6 +17,10 @@ Some documents related to my role as examiner (for the Programming Languages are
     * There should also be time for discussing possible updates to the time plan. (A need to update the plan at this stage is the norm rather than the exception.)
     * Optional: If you'd like the "status report" presentation to be seen by others than the examiner and supervisor then please arrange for booking a room + announcing it in the CSE Weekly News. But note that a half-time public presentation is _not_ a requirement for the MSc thesis course. It could be a way to get feedback from interested researchers (and to be "seen" by potential PhD position recruiters at the department).
     * Optional: Similarly, the half-time meeting could take place at an external site if the MSc thesis is done at a company.
+* [Final report](https://masterthesis.cms.chalmers.se/content/final-thesis-report]: some notes for CSE-department theses
+    * (often forgotten) "Cover Page: Your report should have a common frontpage where both Chalmers and University of Gothenburg are stated, regardless of which university you are studying at."
+    * Please include an "Acknowledgements" page or similar so that it is clear who was supervisor, who was examiner and who else contributed. Examples: [1](http://publications.lib.chalmers.se/records/fulltext/219016/219016.pdf), [2](http://publications.lib.chalmers.se/records/fulltext/225866/225866.pdf), [3](http://publications.lib.chalmers.se/records/fulltext/225931/225931.pdf), [4](http://publications.lib.chalmers.se/records/fulltext/235325/235325.pdf)
+    * Make sure to proof-read the thesis carefully and iterate it with your supervisor until it is well polished. Only then send it to the examiner.
 
 Links:
 * [Main MSc thesis page at the CSE department (Chalmers+GU)](https://masterthesis.cms.chalmers.se/)
@@ -30,4 +34,4 @@ Notes
     * WoAh;  7 theses: formal methods, prog lang
     * GrKe;  9 theses: bio inf, data science
     * PeDa; 10 theses: data science, algo
-    * 2016-03-13: Renamed "mid-term" to "half-time" to fit the terminology of the [official instructions](https://masterthesis.cms.chalmers.se/content/halftime-report). (Note that the instructions also call the same thing "mid report".)
+* 2016-03-13: Renamed "mid-term" to "half-time" to fit the terminology of the [official instructions](https://masterthesis.cms.chalmers.se/content/halftime-report). (Note that the instructions also call the same thing "mid report".)
