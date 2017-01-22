@@ -22,6 +22,7 @@ Some documents related to my role as examiner (for the Programming Languages are
     * Please include an "Acknowledgements" page or similar so that it is clear who was supervisor, who was examiner and who else contributed. Examples: [1](http://publications.lib.chalmers.se/records/fulltext/219016/219016.pdf), [2](http://publications.lib.chalmers.se/records/fulltext/225866/225866.pdf), [3](http://publications.lib.chalmers.se/records/fulltext/225931/225931.pdf), [4](http://publications.lib.chalmers.se/records/fulltext/235325/235325.pdf)
     * Make sure to proof-read the thesis carefully and iterate it with your supervisor until it is well polished. Only then send it to the examiner.
 * [Reporing the result to LADOK](final_step.md)
+* [Final warning about time out](timeout.txt)
 
 Links:
 * [Main MSc thesis page at the CSE department (Chalmers+GU)](https://masterthesis.cms.chalmers.se/)
