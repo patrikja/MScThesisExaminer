@@ -1,12 +1,12 @@
 # MScThesisExaminer
 
-Some documents related to my role as examiner (for the Programming Languages area) of MSc theses at the CSE department, Chalmers and GU.
+Some documents related to my earlier (mainly 2016) role as examiner (for the Programming Languages area) of MSc theses at the CSE department, Chalmers and GU.
 
 * [Find a project proposal](https://masterthesis.cms.chalmers.se/program-proposals): Look through the list and contact the suggested supervisor.
     * I have some [proposals I could supervise](https://masterthesis.cms.chalmers.se/supervisor/patrik-jansson)
     * but I could also be examiner of many other related proposals within [Functional Programming](https://masterthesis.cms.chalmers.se/proposal-keywords/functional-programming), [Type Theory](https://masterthesis.cms.chalmers.se/proposal-keywords/type-theory) and [neighbouring topics](https://masterthesis.cms.chalmers.se/proposal-keywords).
 * My [grading guidelines for project proposals](grade_project_proposal.md)
-* [Planning report](https://masterthesis.cms.chalmers.se/content/planning-report) (due 10 days after the project proposal has been accepted)
+* [Planning report](https://chalmers.instructure.com/courses/232) (due 10 days after the project proposal has been accepted)
     * The planning report can be seen as an extended version of the project proposal extended with a time plan.
     * The formal start date is when the project proposal is accepted (but writing the proposal is also an important preparation for the MSc thesis work)
     * Make sure to include a preliminary date for the half-time report/presentation.
