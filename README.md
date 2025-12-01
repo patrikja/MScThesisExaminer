@@ -1,6 +1,6 @@
 # MScThesisExaminer
 
-* [AI policy (svenska)](AI-policy_PJ.md)
+* AI policy [(English)](AI-policy_PJ_en.md), [(Swedish)](AI-policy_PJ.md)
 
 Below are some documents related to my earlier (mainly 2016) role as examiner (for the Programming Languages area) of MSc theses at the CSE department, Chalmers and GU.
 
