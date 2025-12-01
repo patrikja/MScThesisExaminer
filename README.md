@@ -1,6 +1,8 @@
 # MScThesisExaminer
 
-Some documents related to my earlier (mainly 2016) role as examiner (for the Programming Languages area) of MSc theses at the CSE department, Chalmers and GU.
+* [AI policy (svenska)](AI-policy_PJ.md)
+
+Below are some documents related to my earlier (mainly 2016) role as examiner (for the Programming Languages area) of MSc theses at the CSE department, Chalmers and GU.
 
 * [Find a project proposal](https://masterthesis.cms.chalmers.se/program-proposals): Look through the list and contact the suggested supervisor.
     * I have some [proposals I could supervise](https://masterthesis.cms.chalmers.se/supervisor/patrik-jansson)
